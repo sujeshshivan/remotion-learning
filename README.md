@@ -1,14 +1,6 @@
-# Remotion video
+# Remotion Learning
 
-<p align="center">
-  <a href="https://github.com/remotion-dev/logo">
-    <img src="https://github.com/remotion-dev/logo/raw/main/withtitle/element-0.png">
-  </a>
-</p>
-
-Welcome to your Remotion project!
-
-## Commands
+Remotion Learning
 
 **Install Dependencies**
 
